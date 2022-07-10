@@ -1,2 +1,3 @@
 # pyLDAvis_mc_thesis
-pyLDAvis results for FOMC statements
+
+These HTML files are the result of the estimated Dynamic Topic Model (Blei and Lafferty, 2006).
